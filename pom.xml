@@ -6,9 +6,9 @@
         <groupId>com.redhat</groupId>
         <version>7.6</version>
 
-    <artifactId>residency-service</artifactId>
+    <artifactId>customer-profile-service</artifactId>
 
-    <name>Residency Check Service</name>
+    <name>Customer Profile Service</name>
 
     <!-- Any dependencies needed by your project -->
     <dependencies>

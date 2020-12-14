@@ -12,5 +12,6 @@ public class UserManagementRoute extends RouteBuilder {
 
       //TODO add camel route for exposing REST service
 
+
     }
 }
